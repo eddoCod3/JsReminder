@@ -17,3 +17,5 @@ use: 232134543290
 if you want more information about the phone number and the international format check the 
 whatshap documentation
 https://faq.whatsapp.com/425247423114725/?helpref=uf_share
+
+or search international format (your country) in google
