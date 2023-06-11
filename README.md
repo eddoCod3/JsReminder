@@ -29,6 +29,6 @@ https://faq.whatsapp.com/425247423114725/?helpref=uf_share
 or search international format (your country) in google
 
 ## What do do Next
-+[] Improve the documentation
-+[] Add a more quick way to send the message
-+[] Add more emojis (optional)
++Improve the documentation ()
++Add a more quick way to send the message ()
++Add more emojis (optional) ()
