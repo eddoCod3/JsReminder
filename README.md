@@ -5,7 +5,7 @@ some ideas to do in your spare time
 
 also if you want to send the reminder to your phone via whatshap you can do that
 
-##Change phone number
+##  Change phone number
 
 
 if you want to send a message to your personal phone change the {telephoneNumber}
