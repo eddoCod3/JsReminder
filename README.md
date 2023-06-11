@@ -1,4 +1,5 @@
 # JsReminder
+![image](https://github.com/eddoCod3/JsReminder/assets/130181966/34ad5a3e-7603-44ea-908f-7b1fda3e70a8)
 
 This simple web app it is desing to give you 
 some ideas to do in your spare time
